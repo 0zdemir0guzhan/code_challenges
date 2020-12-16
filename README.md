@@ -1,1 +1,1 @@
-# code_challenges
+# Completed JavaScript Code Challenges from freeCodeCamp
